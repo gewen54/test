@@ -7,6 +7,8 @@ public class Main {
         int j = 2;
         method();
         System.out.println("1");
+        System.out.println("2");
+
     }
 
     public static void method() {
